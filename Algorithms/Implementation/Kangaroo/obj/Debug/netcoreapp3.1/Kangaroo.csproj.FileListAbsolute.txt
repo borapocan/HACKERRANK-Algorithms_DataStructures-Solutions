@@ -1,0 +1,13 @@
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.exe
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.deps.json
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.runtimeconfig.json
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.runtimeconfig.dev.json
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.dll
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.pdb
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.csprojAssemblyReference.cache
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.AssemblyInfoInputs.cache
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.AssemblyInfo.cs
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.dll
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.pdb
+C:\Users\Mr.Robot\Desktop\C# HACKERRANK\Algorithms\Implementation\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.genruntimeconfig.cache
